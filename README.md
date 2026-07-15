@@ -2,15 +2,11 @@
 
 A simulated end-to-end Monitoring, Evaluation (M&E), and Impact Evaluation project based on a realistic primary healthcare intervention in rural Tanzania.
 
----
-
 ## About the Project
 
 This project demonstrates the complete lifecycle of a development project, from project design to impact evaluation.
 
 The project combines real field data collection using Kobo Toolbox with simulated project implementation data to demonstrate practical Monitoring, Evaluation, data management, statistical analysis, and reporting skills.
-
----
 
 ## Project Workflow
 
@@ -26,8 +22,6 @@ The project combines real field data collection using Kobo Toolbox with simulate
 * Impact Evaluation
 * Final Reporting
 
----
-
 ## Skills Demonstrated
 
 * Monitoring & Evaluation
@@ -40,8 +34,6 @@ The project combines real field data collection using Kobo Toolbox with simulate
 * Power BI Dashboard Development
 * Technical Reporting
 
----
-
 ## Software
 
 * Kobo Toolbox
@@ -51,8 +43,6 @@ The project combines real field data collection using Kobo Toolbox with simulate
 * R
 * Power BI
 * GitHub
-
----
 
 ## Repository Structure
 
@@ -64,8 +54,6 @@ dashboard/
 outputs/
 references/
 ```
-
----
 
 ## Project Status
 
