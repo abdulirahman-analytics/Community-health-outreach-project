@@ -1,6 +1,6 @@
 # Community Health Outreach Project (CHOP)
 
-A simulated end-to-end Monitoring, Evaluation (M&E), and Impact Evaluation project based on a realistic primary healthcare intervention in rural Tanzania.
+A simulated end-to-end Monitoring & Evaluation System based on a realistic primary healthcare intervention in rural Tanzania.
 
 ## About the Project
 
