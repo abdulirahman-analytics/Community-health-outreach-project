@@ -2,7 +2,7 @@
 A simulated end-to-end Monitoring & Evaluation System based on a realistic primary healthcare intervention in rural Tanzania.
 
 ## Background
-Many rural communities in Tanzania still face challenges in accessing primary healthcare services. Long travel distances, limited health awareness, and delayed treatment contribute to preventable illnesses and poor health outcomes.The Community Health Outreach Project (CHOP) is designed as a community-based intervention that brings basic healthcare services closer to households through trained Community Health Workers.
+Many rural communities in Tanzania still face challenges in accessing primary healthcare services. Long travel distances, limited health awareness, and delayed treatment contribute to preventable illnesses and poor health outcomes. The Community Health Outreach Project (CHOP) is designed as a community-based intervention that brings basic healthcare services closer to households through trained Community Health Workers.
 
 ## Project Objectives
 * Increase community awareness of primary healthcare services.
