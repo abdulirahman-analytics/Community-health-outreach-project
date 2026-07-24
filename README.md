@@ -16,7 +16,6 @@ Many rural communities in Tanzania still face challenges in accessing primary he
 * Older adults
 * Rural households                                                                                                                           
 ## Project Activities
-The Community Health Outreach Project (CHOP) will implement the following key activities:
 1. Recruit and train Community Health Workers (CHWs).
 2. Conduct community awareness meetings.
 3. Carry out household visits.
