@@ -1,40 +1,67 @@
-# Community Health Outreach Project (CHOP)
+## Community Health Outreach Project (CHOP)
 
-A simulated end-to-end Monitoring & Evaluation System based on a realistic primary healthcare intervention in rural Tanzania.
+A simulated end-to-end Monitoring, Evaluation (M&E), and Impact Evaluation project based on a realistic primary healthcare intervention in rural Tanzania.
 
-## About the Project
+| Item             | Description                              |
+| ---------------- | ---------------------------------------- |
+| Project Name     | Community Health Outreach Project (CHOP) |
+| Project Type     | Simulated Development Project            |
+| Sector           | Primary Healthcare                       |
+| Country          | Tanzania                                 |
+| Project Duration | 12 Months                                |
 
-This project demonstrates the complete lifecycle of a development project, from project design to impact evaluation.
+# Background
 
-The project combines real field data collection using Kobo Toolbox with simulated project implementation data to demonstrate practical Monitoring, Evaluation, data management, statistical analysis, and reporting skills.
+Many rural communities in Tanzania still face challenges in accessing primary healthcare services. Long travel distances, limited health awareness, and delayed treatment contribute to preventable illnesses and poor health outcomes.
 
-## Project Workflow
+The Community Health Outreach Project (CHOP) is designed as a community-based intervention that brings basic healthcare services closer to households through trained Community Health Workers.
 
-* Project Initiation
+This project is a simulation created for professional portfolio development. It follows real Monitoring and Evaluation (M&E) practices and includes real field data collection using Kobo Toolbox.
+
+# Project Goal
+
+Improve access to primary healthcare services in rural communities through community health outreach.
+
+---
+
+# Project Objectives
+
+* Increase community awareness of primary healthcare services.
+* Improve early identification of common health conditions.
+* Increase referrals to nearby health facilities.
+* Improve utilization of primary healthcare services.
+
+---
+
+# Target Population
+
+* Pregnant women
+* Children under five
+* Older adults
+* Rural households
+
+---
+
+# Expected Deliverables
+
 * Situation Analysis
 * M&E System Design
 * Data System Design
-* Electronic Data Collection
+* Electronic Data Collection System
 * Baseline Survey
-* Data Management & Analysis
-* Project Monitoring
-* Endline Survey
+* Monitoring Dashboard
 * Impact Evaluation
-* Final Reporting
+* Final Evaluation Report
 
-## Skills Demonstrated
+---
 
-* Monitoring & Evaluation
-* Impact Evaluation
-* Results-Based Management
-* Survey Design
-* Kobo Toolbox
-* Data Management
-* Statistical Analysis
-* Power BI Dashboard Development
-* Technical Reporting
+# Project Team
 
-## Software
+This portfolio project is independently designed and managed by the author to demonstrate practical skills in Monitoring & Evaluation, data management, statistical analysis, and impact evaluation.
+
+---
+
+# Software
 
 * Kobo Toolbox
 * Microsoft Excel
@@ -43,19 +70,3 @@ The project combines real field data collection using Kobo Toolbox with simulate
 * R
 * Power BI
 * GitHub
-
-## Repository Structure
-
-```text
-docs/
-data/
-analysis/
-dashboard/
-outputs/
-references/
-```
-
-## Project Status
-
-🟢 Planning Phase
-
